@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 Atualmente trabalho em uma pequena gráfica que me pertence, mas busco uma oportunidade em FrontEnd.
-- 🌱 Em 20/03/2022 iniciei meus estudos em HTML, CSS e JAVASCRIPT. Tenho aplicado bastante esforço e dedicação.
+- 🌱 Em Agosto de 2022 iniciei meus estudos em HTML, CSS e JAVASCRIPT. Tenho aplicado bastante esforço e dedicação.
 
 <div align="center">
   <a href="https://github.com/terciodgx">
